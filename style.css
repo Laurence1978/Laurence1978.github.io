@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: yellow
+    }
+h2{
+    font-size: 30px;
+    text-align: left;
+    color: blueviolet
+            }   
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    color: greenyellow
+    }
+        
+    body {
+    background-color: brown;
+    }
